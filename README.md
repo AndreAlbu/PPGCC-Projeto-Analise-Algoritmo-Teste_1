@@ -92,7 +92,8 @@ Execução do algoritmo otimizado sobre o mesmo vetor e alvo, também com regist
 Após as repetições, foi calculada a média dos tempos obtidos para cada algoritmo em cada tamanho de entrada. Os resultados foram organizados em uma tabela e utilizados para compor o gráfico comparativo entre o crescimento empírico das abordagens O(n³) e O(n²) no intervalo de entrada em que ambas podem ser observadas de forma completa.
 
 #### Resultado Experimento 1
-grafico e tabela?
+
+<img src="Resultados/Experimento%201.png" alt="Gráfico com o resultado do Experimento 1" width="900" align-items="center"/>
 
 ## Experimento 2
 

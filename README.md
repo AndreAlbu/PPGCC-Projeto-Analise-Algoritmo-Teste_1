@@ -108,4 +108,5 @@ O Experimento 2 tem como finalidade avaliar o comportamento do algoritmo otimiza
 Os tempos individuais foram acumulados e posteriormente normalizados pela média de dez execuções para cada tamanho de entrada. Os resultados foram reunidos em uma tabela e utilizados na construção de um gráfico que ilustra o crescimento empírico do algoritmo otimizado até 100.000 elementos, permitindo observar sua evolução prática dentro do regime O(n²).
 
 #### Resultado Experimento 2
-grafico e tabela?
+
+<img src="Resultados/Experimento%202.png" alt="Gráfico com o resultado do Experimento 1" width="900" align-items="center"/>

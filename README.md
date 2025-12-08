@@ -1,3 +1,7 @@
+[Código Google Colab](https://colab.research.google.com/drive/14ATq7rN4oty1WGgP-U2Mj3wFHSHoEPBL?usp=sharing)
+
+[Vídeo da apresentação](https://www.youtube.com/watch?v=SmWR37_yqfw&feature=youtu.be)
+
 # Análise de Algoritmos para Detecção de Fraudes em Transações Financeiras
 
 ### Descrição do Problema
